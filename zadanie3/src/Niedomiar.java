@@ -1,0 +1,2 @@
+class Niedomiar extends Exception {
+}

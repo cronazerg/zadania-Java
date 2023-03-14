@@ -1,0 +1,2 @@
+class Przepelnienie extends Exception {
+}
